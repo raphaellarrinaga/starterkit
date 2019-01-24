@@ -1,0 +1,13 @@
+:root {
+  --font-family: Helvetica, Arial, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body{
+  background: linear-gradient(45deg, #f6e8dc, #bbd8e1);
+  font-family: var(--font-family);
+  min-height: 100vh;
+}
